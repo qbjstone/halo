@@ -8,4 +8,8 @@ public enum Constant {
 
     public static final String LAST_READ_TIME_ANNO = "content.halo.run/last-read-time";
     public static final String PERMALINK_PATTERN_ANNO = "content.halo.run/permalink-pattern";
+
+    public static final String CHECKSUM_CONFIG_ANNO = "checksum/config";
+
+    public static final String CONTENT_CHECKSUM_ANNO = "checksum/content";
 }
